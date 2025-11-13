@@ -53,3 +53,27 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 [![](https://visitcount.itsvg.in/api?id=antorweb&icon=3&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+### 🧩 My GitHub Summary Cards
+
+![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/0-profile-details.svg)
+![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/3-stats.svg)
+![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/4-productive-time.svg)
+
+
+
+
+
+![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
