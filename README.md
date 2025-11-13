@@ -24,7 +24,7 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 
 # 💻 Tech Stack:
 ### Frontend  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,codepen,discord,git,gitHub,gitLab,js)](https://skillicons.dev)
 
 </td><td valign="top" width="33%">
   
