@@ -1,6 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Antor%20Karmoker!%20👋&fontSize=36&fontColor=fff&animation=twinkling)
 
-# 👨‍💻 Antor Karmoker
 ### 💫 I'm a Junior Frontend (React) Developer  
 
 Passionate about crafting smooth, responsive, and interactive web experiences using modern frontend technologies.  
@@ -8,7 +7,7 @@ I love solving real-world problems through code and building pixel-perfect inter
 
 # 💫 About Me:
 💻 Frontend Developer with a focus on React.js, Next.js, and modern UI frameworks.  
-I’m currently working on an internship at the Creative IT Institute<br>I’m presently learning Backend Development (Node.js)<br>Ask me about React, Redux, Firebase, etc.<br>How to reach me: antor.web.bd@gmail.com
+I’m currently working on an internship at the Creative IT Institute<br>I’m presently learning Backend Development (Node.js)<br>Ask me about React, Redux, Firebase, etc.<br>How to reach me: antor.web.bd@gmail.com<br>
 ✨ Open for collaboration on **React projects**, **UI/UX integrations**, or **frontend mentorship**.
 
 ## 🌐 Socials:
