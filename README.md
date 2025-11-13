@@ -55,6 +55,7 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antorweb&theme=transparent)
 
 
 
@@ -62,18 +63,4 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 
 
 
-
-### 🧩 My GitHub Summary Cards
-
-![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/3-stats.svg)
-![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/default/4-productive-time.svg)
-
-
-
-
-
-![](https://raw.githubusercontent.com/antorweb/antorweb/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
