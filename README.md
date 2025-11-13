@@ -58,7 +58,22 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antorweb&theme=transparent)
 
 
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antorweb&theme=darcula)
 
+
+
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antorweb&theme=darcula)
+
+
+
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=antorweb&theme=darcula)
+
+
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antorweb&theme=darcula&utcOffset=8)
 
 
 
