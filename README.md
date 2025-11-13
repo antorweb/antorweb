@@ -24,7 +24,7 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 ## 🌐 Portfolio
 <div align="center">
   <a href="https://portfolio-remeni.vercel.app" target="_blank">
-    <img src="https://github.com/antor-web-dev/antor-web-dev/blob/main/portfolio-preview.png" width="700" height="400" alt="Antor Portfolio"/>
+<img src="./portfolio-preview.png" width="700" height="400" alt="Antor Portfolio">
   </a>
   <br>
   <em>Click the image to visit my portfolio</em>
