@@ -29,7 +29,7 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
   
 ## 🌐 Portfolio
 [![Portfolio Preview](https://imgur.com/a/rCGaNly.png)](https://portfolio-remeni.vercel.app/)
-Click the image to visit my portfolio  
+
 
 ## 🏆 Featured Projects
 | Project | Description | Tech |
