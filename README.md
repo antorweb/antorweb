@@ -30,11 +30,15 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 ## 🌐 Portfolio
 <div align="center">
   <a href="https://portfolio-remeni.vercel.app" target="_blank">
-<img src="./portfolio-preview.png" width="700" height="400" alt="Antor Portfolio">
+(https://i.imgur.com/Xajizih.png)
   </a>
   <br>
   <em>Click the image to visit my portfolio</em>
 </div>
+
+
+Click to see the live demo:  
+[![Portfolio Preview](https://imgur.com/a/rCGaNly.png)](https://portfolio-remeni.vercel.app/)
 
 
 
