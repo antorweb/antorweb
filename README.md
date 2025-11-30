@@ -28,19 +28,8 @@ I’m currently working on an internship at the Creative IT Institute<br>I’m p
 </td><td valign="top" width="33%">
   
 ## 🌐 Portfolio
-<div align="center">
-  <a href="https://portfolio-remeni.vercel.app" target="_blank">
-(https://i.imgur.com/Xajizih.png)
-  </a>
-  <br>
-  <em>Click the image to visit my portfolio</em>
-</div>
-
-
-Click to see the live demo:  
 [![Portfolio Preview](https://imgur.com/a/rCGaNly.png)](https://portfolio-remeni.vercel.app/)
-
-
+Click the image to visit my portfolio  
 
 ## 🏆 Featured Projects
 | Project | Description | Tech |
